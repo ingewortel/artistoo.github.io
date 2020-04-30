@@ -1,6 +1,6 @@
-# cpmjs.github.io
-Documentation of CPMjs
+# artistoo.github.io
+Documentation of Artistoo (formerly named CPMjs).
 
-This repo contains online documentation for CPMjs, which you can access [here](https://ingewortel.github.io/cpmjs.github.io/).
+This repo contains online documentation for Artistoo, which you can access [here](https://ingewortel.github.io/artistoo.github.io/).
 
-CPMjs itself is available [here](https://github.com/jtextor/cpmjs).
+Artistoo itself is available [here](https://github.com/ingewortel/artistoo).
