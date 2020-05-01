@@ -17,7 +17,7 @@
           "files": [
             "./manual/installation.md",
             "./manual/quickstart.md",
-	    	"./manual/htmlTemplate.md"
+	    "./manual/htmlTemplate.md"
           ]
         },
         "brand": {

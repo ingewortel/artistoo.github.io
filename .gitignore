@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 log.txt
-=======
-docs
 *.swp
 build.make
 node_modules
->>>>>>> cbb4833b3f84c06f2f2a3aea2949643c70d85b40
